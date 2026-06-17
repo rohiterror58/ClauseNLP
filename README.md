@@ -70,8 +70,8 @@ User enters company name or uploads PDF
 | Label | Score Range | Meaning |
 |---|---|---|
 | ✅ Safe | < 50 / 100 | Standard fair clauses |
-| ⚠️ Moderate | 50 – 70 / 100 | Worth knowing, not immediately harmful |
-| 🔴 High Risk | > 70 / 100 | Directly threatens user rights |
+| ⚠️ Moderate | 50 – 55 / 100 | Worth knowing, not immediately harmful |
+| 🔴 High Risk | > 55 / 100 | Directly threatens user rights |
 
 **Risk Formula:**
 ```

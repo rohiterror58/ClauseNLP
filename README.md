@@ -7,7 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-HuggingFace-yellow?logo=huggingface)
 ![Accuracy](https://img.shields.io/badge/Accuracy-80.14%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
@@ -97,23 +96,6 @@ Risk Score = (Risky × 1.0 + Moderate × 0.5) / Total Clauses × 100
 
 ---
 
-## 📁 Project Structure
-
-```
-ClauseNLP/
-├── app.py                      # Flask backend — all API endpoints
-├── templates/
-│   └── index.html              # Frontend UI
-├── tos_risk_model_2/           # Fine-tuned DistilBERT model files
-│   ├── config.json
-│   ├── pytorch_model.bin
-│   └── tokenizer files
-├── ClauseNLP_final_model.ipynb # Jupyter notebook (development + testing)
-├── requirements.txt            # Python dependencies
-└── README.md
-```
-
----
 
 ## 🚀 Getting Started
 

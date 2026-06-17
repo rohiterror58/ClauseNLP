@@ -14,7 +14,7 @@
 
 **ClauseNLP** is an AI-powered web application that automatically analyzes Terms of Service (ToS) agreements and explains them in plain English. Most people click *"I Agree"* without reading ToS documents — which can be 10,000+ words of dense legal jargon hiding clauses that sell your data, remove your legal rights, or allow account deletion without warning.
 
-ClauseNLP reads them **for you** — in under 1.5 seconds.
+ClauseNLP reads them **for you** — in under 1.05 minutes(65 seconds).
 
 ---
 

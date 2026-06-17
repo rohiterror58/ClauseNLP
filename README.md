@@ -256,10 +256,11 @@ https://drive.google.com/file/d/1tlfP1kov6Dn5dTNAyVrU_8S8ePOxXQwk/view?usp=shari
 - [Meta AI](https://ai.meta.com) — for LLaMA language model
 
 ---
-Rohit Paswan<a href="https://www.linkedin.com/in/rohit-paswan-2a66462b7/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
-</a>
-Arnav Dhiwar[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Dhiwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arnav-dhiwar-33ab3117b/)
+## Connect with Us
+
+Rohit Paswan [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Paswan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-paswan-2a66462b7/)
+
+Arnav Dhiwar [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Dhiwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arnav-dhiwar-33ab3117b/)
 
 <div align="center">
   <b>⭐ If this project helped you, please give it a star on GitHub!</b><br/>

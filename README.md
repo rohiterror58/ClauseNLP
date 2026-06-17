@@ -231,7 +231,18 @@ Final Accuracy:    80.14%
 - [ ] Mobile application support
 
 ---
+## Model Download
+Download the fine-tuned DistilBERT model from Google Drive:
+[Download Model](your_drive_link_here)
 
+After downloading:
+1. Extract tos_risk_model_2.zip
+2. Place the tos_risk_model_2 folder in the project root
+3. Run python app.py
+
+
+Access to trained Model G-Drive Link
+https://drive.google.com/file/d/1tlfP1kov6Dn5dTNAyVrU_8S8ePOxXQwk/view?usp=sharing
 
 
 
@@ -245,19 +256,10 @@ Final Accuracy:    80.14%
 - [Meta AI](https://ai.meta.com) — for LLaMA language model
 
 ---
-
-## Model Download
-Download the fine-tuned DistilBERT model from Google Drive:
-[Download Model](your_drive_link_here)
-
-After downloading:
-1. Extract tos_risk_model_2.zip
-2. Place the tos_risk_model_2 folder in the project root
-3. Run python app.py
-
-
-Access to trained Model G-Drive Link
-https://drive.google.com/file/d/1tlfP1kov6Dn5dTNAyVrU_8S8ePOxXQwk/view?usp=sharing
+Rohit Paswan<a href="https://www.linkedin.com/in/rohit-paswan-2a66462b7/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
+</a>
+Arnav Dhiwar[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Dhiwar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arnav-dhiwar-33ab3117b/)
 
 <div align="center">
   <b>⭐ If this project helped you, please give it a star on GitHub!</b><br/>

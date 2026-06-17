@@ -1,0 +1,13 @@
+flask
+flask-cors
+pymongo
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+torch
+transformers
+ddgs
+pymupdf
+lxml
+googlesearch-python

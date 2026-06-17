@@ -1,0 +1,104 @@
+# ═══════════════════════════════════════════
+# ClauseNLP — .gitignore
+# ═══════════════════════════════════════════
+
+# ── Model Files (too large for GitHub) ──────
+# Upload to HuggingFace Hub or Google Drive instead
+tos_risk_model_2/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# ── Keep these model config files (small, needed) ──
+# Uncomment the lines below to track them
+# !tos_risk_model_2/config.json
+# !tos_risk_model_2/tokenizer.json
+# !tos_risk_model_2/tokenizer_config.json
+# !tos_risk_model_2/vocab.txt
+# !tos_risk_model_2/special_tokens_map.json
+
+# ── Python ───────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.so
+
+# ── Virtual Environment ───────────────────────
+venv/
+env/
+ENV/
+.venv/
+.env/
+myenv/
+
+# ── Jupyter Notebook ──────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Environment Variables ─────────────────────
+.env
+.env.local
+.env.production
+secrets.py
+
+# ── Database ──────────────────────────────────
+*.csv
+tos_database.csv
+
+# ── OS Files ──────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── IDE / Editor ──────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ── Logs ──────────────────────────────────────
+*.log
+logs/
+log/
+
+# ── Uploads / Temp ────────────────────────────
+uploads/
+temp/
+tmp/
+*.tmp
+
+# ── ChromeDriver / Selenium ───────────────────
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+.wdm/
+
+# ── Build / Dist ──────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+site-packages/
+
+# ── Coverage / Testing ────────────────────────
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ── Ollama Model Cache ────────────────────────
+.ollama/
+ollama_models/
